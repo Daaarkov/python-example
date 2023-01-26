@@ -23,3 +23,9 @@ A simple example in python that create how much file do you want
     ```bash
     python3 main.py
     ```
+
+***
+
+### Scripted by Darkov#1986
+
+#### Owner of DF Development, check our [discord](https://discord.gg/jmms83BVD8) or [tebex](https://www.dfdev.shop/category/scripts)
