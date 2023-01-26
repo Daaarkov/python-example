@@ -19,7 +19,6 @@ A simple example in python that create how much file do you want
     ```bash
     python main.py
     ```
-    or 
     ```bash
     python3 main.py
     ```
